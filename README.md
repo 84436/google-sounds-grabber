@@ -28,7 +28,9 @@ Ideal for people who don't have a Pixel phone (or who just want to use the tone 
 
 ```
 apktool d com.google.android.soundpicker.apk
-python google_sounds_apk_get_list.py com.google.android.soundpicker google_sounds
+
+python google_sounds_grabber.py com.google.android.soundpicker google_sounds
+
 aria2c -i google_sounds.aria2.txt
 ```
 
