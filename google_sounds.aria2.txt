@@ -1,0 +1,778 @@
+https://www.gstatic.com/pixel/sounds/AL_C_variations.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Variations.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_the_four_seasons.ogg
+    out=google_sounds/Alarms/Classical Harmonies/The Four Seasons.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_variations_ii.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Variations II.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_mozart_wakes.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Mozart Wakes.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_dreamy_nights.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Dreamy Nights.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_carnival.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Carnival.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_new_horizon.ogg
+    out=google_sounds/Alarms/Classical Harmonies/New Horizon.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_morning_calm.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Morning Calm.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_crusade.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Crusade.ogg
+https://www.gstatic.com/pixel/sounds/AL_C_renaissance.ogg
+    out=google_sounds/Alarms/Classical Harmonies/Renaissance.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_siren.ogg
+    out=google_sounds/Alarms/Play It Loud/Siren.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_gentle_warning.ogg
+    out=google_sounds/Alarms/Play It Loud/Gentle Warning.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_classic_alarm.ogg
+    out=google_sounds/Alarms/Play It Loud/Classic Alarm.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_electro.ogg
+    out=google_sounds/Alarms/Play It Loud/Electro.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_playful_piano.ogg
+    out=google_sounds/Alarms/Play It Loud/Playful Piano.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_balloon.ogg
+    out=google_sounds/Alarms/Play It Loud/Balloon.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_meditation.ogg
+    out=google_sounds/Alarms/Play It Loud/Meditation.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_sprinkle.ogg
+    out=google_sounds/Alarms/Play It Loud/Sprinkle.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_drizzle.ogg
+    out=google_sounds/Alarms/Play It Loud/Drizzle.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_trickle.ogg
+    out=google_sounds/Alarms/Play It Loud/Trickle.ogg
+https://www.gstatic.com/pixel/sounds/AL_L_sci_fi.ogg
+    out=google_sounds/Alarms/Play It Loud/Sci-Fi.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Balafon_sunrise_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Balafon Sunrise.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Blades_of_grass_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Blades of Grass.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Blast_off_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Blast Off.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Butterfly_trails_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Butterfly Trails.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Dustscape_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Dustscape.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Forest_beat_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Forest Beat.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Funkyard_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Funkyard.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Horizon_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Horizon.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Knick_knack_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Knick Knack.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Piano_in_the_sky_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Piano in the Sky.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Piano_taps_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Piano Taps.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Step_out_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Step Out.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Temple_of_dreams_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Temple of Dreams.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Zebra_stripes_OG7_1ch_48k.ogg
+    out=google_sounds/Alarms/Material Adventures/Zebra Stripes.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_troll.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Troll.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_castle.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Castle.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_wizard.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Wizard.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_enchantment.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Enchantment.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_gnome.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Gnome.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_wishing_well.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Wishing Well.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_riddle.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Riddle.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_unicorn.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Unicorn.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_dream.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Dream.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_ghost.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Ghost.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_beanstalk.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Beanstalk.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_elves.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Elves.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_leapfrog.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Leapfrog.ogg
+https://www.gstatic.com/pixel/sounds/AL_M_gold.ogg
+    out=google_sounds/Alarms/Minimal Melodies/Gold.ogg
+https://www.gstatic.com/pixel/sounds/rise.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Rise.ogg
+https://www.gstatic.com/pixel/sounds/drip.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Drip.ogg
+https://www.gstatic.com/pixel/sounds/awaken.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Awaken.ogg
+https://www.gstatic.com/pixel/sounds/nudge.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Nudge.ogg
+https://www.gstatic.com/pixel/sounds/sway.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Sway.ogg
+https://www.gstatic.com/pixel/sounds/orbit.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Orbit.ogg
+https://www.gstatic.com/pixel/sounds/bounce.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Bounce.ogg
+https://www.gstatic.com/pixel/sounds/gallop.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Gallop.ogg
+https://www.gstatic.com/pixel/sounds/wag.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Wag.ogg
+https://www.gstatic.com/pixel/sounds/flow.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Flow.ogg
+https://www.gstatic.com/pixel/sounds/bright_morning.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Bright Morning.ogg
+https://www.gstatic.com/pixel/sounds/gentle_breeze.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Gentle Breeze.ogg
+https://www.gstatic.com/pixel/sounds/early_twilight.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Early Twilight.ogg
+https://www.gstatic.com/pixel/sounds/rolling_fog.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Rolling Fog.ogg
+https://www.gstatic.com/pixel/sounds/jump_start.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Jump-Start.ogg
+https://www.gstatic.com/pixel/sounds/full_of_wonder.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Full of Wonder.ogg
+https://www.gstatic.com/pixel/sounds/icicles.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Icicles.ogg
+https://www.gstatic.com/pixel/sounds/sunshower.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Sun-Shower.ogg
+https://www.gstatic.com/pixel/sounds/cuckoo_clock.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Cuckoo Clock.ogg
+https://www.gstatic.com/pixel/sounds/spokes.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Spokes.ogg
+https://www.gstatic.com/pixel/sounds/loose_change.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Loose Change.ogg
+https://www.gstatic.com/pixel/sounds/a_real_hoot.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/A Real Hoot.ogg
+https://www.gstatic.com/pixel/sounds/fresh_start.ogg
+    out=google_sounds/Alarms/Pixel (1st Gen)/Fresh Start.ogg
+https://www.gstatic.com/pixel/sounds/fresh_start.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Fresh Start.ogg
+https://www.gstatic.com/pixel/sounds/bright_morning.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Bright Morning.ogg
+https://www.gstatic.com/pixel/sounds/gentle_breeze.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Gentle Breeze.ogg
+https://www.gstatic.com/pixel/sounds/early_twilight.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Early Twilight.ogg
+https://www.gstatic.com/pixel/sounds/rolling_fog.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Rolling Fog.ogg
+https://www.gstatic.com/pixel/sounds/jump_start.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Jump-Start.ogg
+https://www.gstatic.com/pixel/sounds/full_of_wonder.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Full of Wonder.ogg
+https://www.gstatic.com/pixel/sounds/icicles.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Icicles.ogg
+https://www.gstatic.com/pixel/sounds/sunshower.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Sun-Shower.ogg
+https://www.gstatic.com/pixel/sounds/cuckoo_clock.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Cuckoo Clock.ogg
+https://www.gstatic.com/pixel/sounds/spokes.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Spokes.ogg
+https://www.gstatic.com/pixel/sounds/loose_change.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Loose Change.ogg
+https://www.gstatic.com/pixel/sounds/a_real_hoot.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/A Real Hoot.ogg
+https://www.gstatic.com/pixel/sounds/rise.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Rise.ogg
+https://www.gstatic.com/pixel/sounds/drip.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Drip.ogg
+https://www.gstatic.com/pixel/sounds/awaken.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Awaken.ogg
+https://www.gstatic.com/pixel/sounds/nudge.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Nudge.ogg
+https://www.gstatic.com/pixel/sounds/sway.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Sway.ogg
+https://www.gstatic.com/pixel/sounds/orbit.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Orbit.ogg
+https://www.gstatic.com/pixel/sounds/bounce.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Bounce.ogg
+https://www.gstatic.com/pixel/sounds/gallop.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Gallop.ogg
+https://www.gstatic.com/pixel/sounds/wag.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Wag.ogg
+https://www.gstatic.com/pixel/sounds/flow.ogg
+    out=google_sounds/Alarms/Pixel (2nd Gen)/Flow.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_grandfather_clock.ogg
+    out=google_sounds/Alarms/Reality Bytes/Grandfather Clock.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_nonstop_clock.ogg
+    out=google_sounds/Alarms/Reality Bytes/Nonstop Clock.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_ambulance.ogg
+    out=google_sounds/Alarms/Reality Bytes/Ambulance.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_cuckoo_o_clock.ogg
+    out=google_sounds/Alarms/Reality Bytes/Cuckoo O'Clock.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_marimba.ogg
+    out=google_sounds/Alarms/Reality Bytes/Marimba.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_morning_bell.ogg
+    out=google_sounds/Alarms/Reality Bytes/Morning Bell.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_evening_bell.ogg
+    out=google_sounds/Alarms/Reality Bytes/Evening Bell.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_bzzz.ogg
+    out=google_sounds/Alarms/Reality Bytes/Bzzz.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_more_cowbell.ogg
+    out=google_sounds/Alarms/Reality Bytes/More Cowbell.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_black_crow.ogg
+    out=google_sounds/Alarms/Reality Bytes/Black Crow.ogg
+https://www.gstatic.com/pixel/sounds/AL_W_cock_a_doodle_doo.ogg
+    out=google_sounds/Alarms/Reality Bytes/Cock-a-Doodle-Doo.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_victory_lap.ogg
+    out=google_sounds/Alarms/Retro Riffs/Victory Lap.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_superpower.ogg
+    out=google_sounds/Alarms/Retro Riffs/Superpower.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_treasure_chest.ogg
+    out=google_sounds/Alarms/Retro Riffs/Treasure Chest.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_countdown.ogg
+    out=google_sounds/Alarms/Retro Riffs/Countdown.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_through_the_fog.ogg
+    out=google_sounds/Alarms/Retro Riffs/Through the Fog.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_meander.ogg
+    out=google_sounds/Alarms/Retro Riffs/Meander.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_waking_up.ogg
+    out=google_sounds/Alarms/Retro Riffs/Waking Up.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_high_pitch.ogg
+    out=google_sounds/Alarms/Retro Riffs/High Pitch.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_twin_bell.ogg
+    out=google_sounds/Alarms/Retro Riffs/Twin Bell.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_synthwave.ogg
+    out=google_sounds/Alarms/Retro Riffs/Synthwave.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_rad_morning.ogg
+    out=google_sounds/Alarms/Retro Riffs/Rad Morning.ogg
+https://www.gstatic.com/pixel/sounds/AL_R_mystery.ogg
+    out=google_sounds/Alarms/Retro Riffs/Mystery.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_celebration.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Celebration.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_song_of_spring.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Song of Spring.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_cheerful_morning.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Cheerful Morning.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_beach_breeze.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Beach Breeze.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_wedding_season.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Wedding Season.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_sunshower.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Sunshower.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_campfire.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Campfire.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_wolf_pack.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Wolf Pack.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_scary_spirits.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Scary Spirits.ogg
+https://www.gstatic.com/pixel/sounds/AL_S_snowstorm.ogg
+    out=google_sounds/Alarms/Seasonal Celebrations/Snowstorm.ogg
+https://www.gstatic.com/pixel/sounds/RT_C1.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Nutcracker.ogg
+https://www.gstatic.com/pixel/sounds/RT_C2.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Minuet.ogg
+https://www.gstatic.com/pixel/sounds/RT_C3.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/The Hunt.ogg
+https://www.gstatic.com/pixel/sounds/RT_C4.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Moonlight.ogg
+https://www.gstatic.com/pixel/sounds/RT_C5.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Air.ogg
+https://www.gstatic.com/pixel/sounds/RT_C6.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Breeze.ogg
+https://www.gstatic.com/pixel/sounds/RT_C7.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Blue Lily.ogg
+https://www.gstatic.com/pixel/sounds/RT_C8.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Butterfly's Wings.ogg
+https://www.gstatic.com/pixel/sounds/RT_C9.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Hungarian Dance.ogg
+https://www.gstatic.com/pixel/sounds/RT_C10.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Mephisto's Dance.ogg
+https://www.gstatic.com/pixel/sounds/RT_C11.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Presto.ogg
+https://www.gstatic.com/pixel/sounds/RT_C12.ogg
+    out=google_sounds/Ringtones/Classical Harmonies/Nocturne.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_beach_jam.ogg
+    out=google_sounds/Ringtones/Play It Loud/Beach Jam.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_dubstep_drops.ogg
+    out=google_sounds/Ringtones/Play It Loud/Dubstep Drops.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_glass_bubbles.ogg
+    out=google_sounds/Ringtones/Play It Loud/Glass Bubbles.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_high_flying.ogg
+    out=google_sounds/Ringtones/Play It Loud/High Flying.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_radiant_chimes.ogg
+    out=google_sounds/Ringtones/Play It Loud/Radiant Chimes.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_mystical_chimes.ogg
+    out=google_sounds/Ringtones/Play It Loud/Mystical Chimes.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_pots_and_pans.ogg
+    out=google_sounds/Ringtones/Play It Loud/Pots & Pans.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_dots.ogg
+    out=google_sounds/Ringtones/Play It Loud/Dots.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_construction_zone.ogg
+    out=google_sounds/Ringtones/Play It Loud/Construction Zone.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_heaviest_metal.ogg
+    out=google_sounds/Ringtones/Play It Loud/Heaviest Metal.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_glassy_ring.ogg
+    out=google_sounds/Ringtones/Play It Loud/Glassy Ring.ogg
+https://www.gstatic.com/pixel/sounds/RT_L_sharp_ring.ogg
+    out=google_sounds/Ringtones/Play It Loud/Sharp Ring.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Approach_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Approach.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Aqueous_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Aqueous.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Beats_and_bops_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Beats and Bops.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Blue_harp_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Blue Harp.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Departure_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Departure.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Dish_hop_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Dish Hop.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Dragon_dreams_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Dragon Dreams.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Flitter_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Flitter.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Go_off_king_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Go Off King.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Pivot_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Pivot.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Shimmering_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Shimmering.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Snap_technique_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Snap Technique.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Star_jump_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Star Jump.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Tinsel_OG7_1ch_48k.ogg
+    out=google_sounds/Ringtones/Material Adventures/Tinsel.ogg
+https://www.gstatic.com/pixel/sounds/RT_M1.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Constellation.ogg
+https://www.gstatic.com/pixel/sounds/RT_M2.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Big Dipper.ogg
+https://www.gstatic.com/pixel/sounds/RT_M3.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Milky Way.ogg
+https://www.gstatic.com/pixel/sounds/RT_M4.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/North Star.ogg
+https://www.gstatic.com/pixel/sounds/RT_M5.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Falling Star.ogg
+https://www.gstatic.com/pixel/sounds/RT_M6.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Asteroid.ogg
+https://www.gstatic.com/pixel/sounds/RT_M7.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Comet.ogg
+https://www.gstatic.com/pixel/sounds/RT_M8.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Satellite.ogg
+https://www.gstatic.com/pixel/sounds/RT_M9.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Galaxy.ogg
+https://www.gstatic.com/pixel/sounds/RT_M10.ogg
+    out=google_sounds/Ringtones/Minimal Melodies/Cosmic Dust.ogg
+https://www.gstatic.com/pixel/sounds/beats.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Beats.ogg
+https://www.gstatic.com/pixel/sounds/dance_party.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Dance Party.ogg
+https://www.gstatic.com/pixel/sounds/early_bird.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Early Bird.ogg
+https://www.gstatic.com/pixel/sounds/hey_hey.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Hey Hey.ogg
+https://www.gstatic.com/pixel/sounds/romance.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Romance.ogg
+https://www.gstatic.com/pixel/sounds/rrrring.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Rrrring.ogg
+https://www.gstatic.com/pixel/sounds/shooting_star.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Shooting Star.ogg
+https://www.gstatic.com/pixel/sounds/spaceship.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Spaceship.ogg
+https://www.gstatic.com/pixel/sounds/summer_night.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Summer Night.ogg
+https://www.gstatic.com/pixel/sounds/zen.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Zen.ogg
+https://www.gstatic.com/pixel/sounds/the_big_adventure.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/The Big Adventure.ogg
+https://www.gstatic.com/pixel/sounds/copycat.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Copycat.ogg
+https://www.gstatic.com/pixel/sounds/crackle.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Crackle.ogg
+https://www.gstatic.com/pixel/sounds/flutterby.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Flutterby.ogg
+https://www.gstatic.com/pixel/sounds/hotline.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Hotline.ogg
+https://www.gstatic.com/pixel/sounds/leaps_and_bounds.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Leaps & Bounds.ogg
+https://www.gstatic.com/pixel/sounds/lollipop.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Lollipop.ogg
+https://www.gstatic.com/pixel/sounds/lost_and_found.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Lost & Found.ogg
+https://www.gstatic.com/pixel/sounds/mash_up.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Mash-up.ogg
+https://www.gstatic.com/pixel/sounds/monkey_around.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Monkey Around.ogg
+https://www.gstatic.com/pixel/sounds/schools_out.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/School's Out.ogg
+https://www.gstatic.com/pixel/sounds/zen_too.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/Zen Too.ogg
+https://www.gstatic.com/pixel/sounds/your_new_adventure.ogg
+    out=google_sounds/Ringtones/Pixel (1st Gen)/@string/your_next_adventure.ogg
+https://www.gstatic.com/pixel/sounds/your_new_adventure.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/@string/your_next_adventure.ogg
+https://www.gstatic.com/pixel/sounds/the_big_adventure.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/The Big Adventure.ogg
+https://www.gstatic.com/pixel/sounds/copycat.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Copycat.ogg
+https://www.gstatic.com/pixel/sounds/crackle.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Crackle.ogg
+https://www.gstatic.com/pixel/sounds/flutterby.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Flutterby.ogg
+https://www.gstatic.com/pixel/sounds/hotline.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Hotline.ogg
+https://www.gstatic.com/pixel/sounds/leaps_and_bounds.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Leaps & Bounds.ogg
+https://www.gstatic.com/pixel/sounds/lollipop.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Lollipop.ogg
+https://www.gstatic.com/pixel/sounds/lost_and_found.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Lost & Found.ogg
+https://www.gstatic.com/pixel/sounds/mash_up.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Mash-up.ogg
+https://www.gstatic.com/pixel/sounds/monkey_around.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Monkey Around.ogg
+https://www.gstatic.com/pixel/sounds/schools_out.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/School's Out.ogg
+https://www.gstatic.com/pixel/sounds/zen_too.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Zen Too.ogg
+https://www.gstatic.com/pixel/sounds/beats.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Beats.ogg
+https://www.gstatic.com/pixel/sounds/dance_party.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Dance Party.ogg
+https://www.gstatic.com/pixel/sounds/early_bird.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Early Bird.ogg
+https://www.gstatic.com/pixel/sounds/hey_hey.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Hey Hey.ogg
+https://www.gstatic.com/pixel/sounds/romance.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Romance.ogg
+https://www.gstatic.com/pixel/sounds/rrrring.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Rrrring.ogg
+https://www.gstatic.com/pixel/sounds/shooting_star.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Shooting Star.ogg
+https://www.gstatic.com/pixel/sounds/spaceship.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Spaceship.ogg
+https://www.gstatic.com/pixel/sounds/summer_night.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Summer Night.ogg
+https://www.gstatic.com/pixel/sounds/zen.ogg
+    out=google_sounds/Ringtones/Pixel (2nd Gen)/Zen.ogg
+https://www.gstatic.com/pixel/sounds/RT_S1.ogg
+    out=google_sounds/Ringtones/Reality Bytes/The Cat's Meow.ogg
+https://www.gstatic.com/pixel/sounds/RT_S2.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Fairy Tale.ogg
+https://www.gstatic.com/pixel/sounds/RT_S3.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Little Red Trolley.ogg
+https://www.gstatic.com/pixel/sounds/RT_S4.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Sweet Dreams.ogg
+https://www.gstatic.com/pixel/sounds/RT_S5.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Merry-Go-Round.ogg
+https://www.gstatic.com/pixel/sounds/RT_S6.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Pinwheel.ogg
+https://www.gstatic.com/pixel/sounds/RT_S7.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Old-Timey Phone.ogg
+https://www.gstatic.com/pixel/sounds/RT_S8.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Sealed with a Kiss.ogg
+https://www.gstatic.com/pixel/sounds/RT_S9.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Henhouse.ogg
+https://www.gstatic.com/pixel/sounds/RT_S10.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Didgeridoo.ogg
+https://www.gstatic.com/pixel/sounds/RT_S11.ogg
+    out=google_sounds/Ringtones/Reality Bytes/Band Practice.ogg
+https://www.gstatic.com/pixel/sounds/RT_R1.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Finish Line.ogg
+https://www.gstatic.com/pixel/sounds/RT_R2.ogg
+    out=google_sounds/Ringtones/Retro Riffs/High Score.ogg
+https://www.gstatic.com/pixel/sounds/RT_R3.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Game On.ogg
+https://www.gstatic.com/pixel/sounds/RT_R4.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Back In Time.ogg
+https://www.gstatic.com/pixel/sounds/RT_R5.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Power Up.ogg
+https://www.gstatic.com/pixel/sounds/RT_R7.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Bonus Points.ogg
+https://www.gstatic.com/pixel/sounds/RT_R8.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Tropical Beats.ogg
+https://www.gstatic.com/pixel/sounds/RT_R10.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Glow Stick.ogg
+https://www.gstatic.com/pixel/sounds/RT_R11.ogg
+    out=google_sounds/Ringtones/Retro Riffs/The Small Adventure.ogg
+https://www.gstatic.com/pixel/sounds/RT_R12.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Light Crackle.ogg
+https://www.gstatic.com/pixel/sounds/RT_R13.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Flip Phone.ogg
+https://www.gstatic.com/pixel/sounds/RT_R14.ogg
+    out=google_sounds/Ringtones/Retro Riffs/Getaway.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_auld_lang_syne.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Auld Lang Syne.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_cupids_arrow.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Cupid's Arrow.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_lion_dance.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Lion Dance.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_hello_spring.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Hello Spring.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_flower_waltz.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Flower Waltz.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_spring_mist.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Spring Mist.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_autumn_rainstorm.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Autumn Rainstorm.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_spooky_organ.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Spooky Organ.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_haunted_house.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Haunted House.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_holiday_bells.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Holiday Bells.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_dreidel_dreidel.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Dreidel Dreidel.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_deck_the_halls.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Deck the Halls.ogg
+https://www.gstatic.com/pixel/sounds/RT_S_jingle_bells.ogg
+    out=google_sounds/Ringtones/Seasonal Celebrations/Jingle Bells.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_spring_strings.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Spring Strings.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_finale.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Finale.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_guitar_chord.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Guitar Chord.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_piano_flutter.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Piano Flutter.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_piano_flourish.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Piano Flourish.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_butterfly.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Butterfly.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_changing_keys.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Changing Keys.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_royal_fanfare.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Royal Fanfare.ogg
+https://www.gstatic.com/pixel/sounds/NT_C_fade.ogg
+    out=google_sounds/Notifications/Classical Harmonies/Fade.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_rock_concert.ogg
+    out=google_sounds/Notifications/Play It Loud/Rock Concert.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_chefs_special.ogg
+    out=google_sounds/Notifications/Play It Loud/Chef's Special.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_honk_honk.ogg
+    out=google_sounds/Notifications/Play It Loud/Honk Honk.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_welcome.ogg
+    out=google_sounds/Notifications/Play It Loud/Welcome.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_grand_opening.ogg
+    out=google_sounds/Notifications/Play It Loud/Grand Opening.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_cyclist.ogg
+    out=google_sounds/Notifications/Play It Loud/Cyclist.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_dj.ogg
+    out=google_sounds/Notifications/Play It Loud/DJ.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_absurd_bird.ogg
+    out=google_sounds/Notifications/Play It Loud/Absurd Bird.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_doorbell.ogg
+    out=google_sounds/Notifications/Play It Loud/Doorbell.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_crosswalk.ogg
+    out=google_sounds/Notifications/Play It Loud/Crosswalk.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_night_sky.ogg
+    out=google_sounds/Notifications/Play It Loud/Night Sky.ogg
+https://www.gstatic.com/pixel/sounds/NT_L_nightlife.ogg
+    out=google_sounds/Notifications/Play It Loud/Nightlife.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Carbonate_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Carbonate.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Discovery_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Discovery.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Epiphany_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Epiphany.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Everblue_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Everblue.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Gradient_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Gradient.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Iota_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Iota.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Moondrop_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Moondrop.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Mystique_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Mystique.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Orbiter_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Orbiter.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Plonk_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Plonk.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Scamper_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Scamper.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Shuffle_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Shuffle.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Sunflower_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Sunflower.ogg
+https://www.gstatic.com/pixel/sounds/materialadventures/Teapot_OG7_1ch_48k.ogg
+    out=google_sounds/Notifications/Material Adventures/Teapot.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_seedling.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Seedling.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_roots.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Roots.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_flower.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Flower.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_leaf.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Leaf.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_pollen.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Pollen.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_dew.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Dew.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_fruit.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Fruit.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_stem.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Stem.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_bulb.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Bulb.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_bud.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Bud.ogg
+https://www.gstatic.com/pixel/sounds/NT_M_petals.ogg
+    out=google_sounds/Notifications/Minimal Melodies/Petals.ogg
+https://www.gstatic.com/pixel/sounds/chime.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Chime.ogg
+https://www.gstatic.com/pixel/sounds/trill.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Trill.ogg
+https://www.gstatic.com/pixel/sounds/clink.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Clink.ogg
+https://www.gstatic.com/pixel/sounds/birdsong.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Birdsong.ogg
+https://www.gstatic.com/pixel/sounds/flick.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Flick.ogg
+https://www.gstatic.com/pixel/sounds/note.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Note.ogg
+https://www.gstatic.com/pixel/sounds/strum.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Strum.ogg
+https://www.gstatic.com/pixel/sounds/hey.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Hey.ogg
+https://www.gstatic.com/pixel/sounds/gentle_gong.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Gentle Gong.ogg
+https://www.gstatic.com/pixel/sounds/duet.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Duet.ogg
+https://www.gstatic.com/pixel/sounds/mallet.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Mallet.ogg
+https://www.gstatic.com/pixel/sounds/ping.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Ping.ogg
+https://www.gstatic.com/pixel/sounds/popcorn.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Popcorn.ogg
+https://www.gstatic.com/pixel/sounds/sticks_and_stones.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Sticks & Stones.ogg
+https://www.gstatic.com/pixel/sounds/beginning.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Beginning.ogg
+https://www.gstatic.com/pixel/sounds/pipes.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Pipes.ogg
+https://www.gstatic.com/pixel/sounds/end_note.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/End Note.ogg
+https://www.gstatic.com/pixel/sounds/orders_up.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Order's Up.ogg
+https://www.gstatic.com/pixel/sounds/twinkle.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Twinkle.ogg
+https://www.gstatic.com/pixel/sounds/shopkeeper.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Shopkeeper.ogg
+https://www.gstatic.com/pixel/sounds/tuneup.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Tune-Up.ogg
+https://www.gstatic.com/pixel/sounds/coconuts.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Coconuts.ogg
+https://www.gstatic.com/pixel/sounds/tweeter.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Tweeter.ogg
+https://www.gstatic.com/pixel/sounds/eureka.ogg
+    out=google_sounds/Notifications/Pixel (1st Gen)/Eureka.ogg
+https://www.gstatic.com/pixel/sounds/eureka.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Eureka.ogg
+https://www.gstatic.com/pixel/sounds/gentle_gong.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Gentle Gong.ogg
+https://www.gstatic.com/pixel/sounds/duet.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Duet.ogg
+https://www.gstatic.com/pixel/sounds/mallet.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Mallet.ogg
+https://www.gstatic.com/pixel/sounds/ping.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Ping.ogg
+https://www.gstatic.com/pixel/sounds/popcorn.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Popcorn.ogg
+https://www.gstatic.com/pixel/sounds/sticks_and_stones.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Sticks & Stones.ogg
+https://www.gstatic.com/pixel/sounds/beginning.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Beginning.ogg
+https://www.gstatic.com/pixel/sounds/pipes.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Pipes.ogg
+https://www.gstatic.com/pixel/sounds/end_note.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/End Note.ogg
+https://www.gstatic.com/pixel/sounds/orders_up.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Order's Up.ogg
+https://www.gstatic.com/pixel/sounds/twinkle.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Twinkle.ogg
+https://www.gstatic.com/pixel/sounds/shopkeeper.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Shopkeeper.ogg
+https://www.gstatic.com/pixel/sounds/tuneup.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Tune-Up.ogg
+https://www.gstatic.com/pixel/sounds/coconuts.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Coconuts.ogg
+https://www.gstatic.com/pixel/sounds/tweeter.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Tweeter.ogg
+https://www.gstatic.com/pixel/sounds/chime.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Chime.ogg
+https://www.gstatic.com/pixel/sounds/trill.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Trill.ogg
+https://www.gstatic.com/pixel/sounds/clink.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Clink.ogg
+https://www.gstatic.com/pixel/sounds/birdsong.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Birdsong.ogg
+https://www.gstatic.com/pixel/sounds/flick.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Flick.ogg
+https://www.gstatic.com/pixel/sounds/note.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Note.ogg
+https://www.gstatic.com/pixel/sounds/strum.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Strum.ogg
+https://www.gstatic.com/pixel/sounds/hey.ogg
+    out=google_sounds/Notifications/Pixel (2nd Gen)/Hey.ogg
+https://www.gstatic.com/pixel/sounds/NT_S1.ogg
+    out=google_sounds/Notifications/Reality Bytes/Bike Ride.ogg
+https://www.gstatic.com/pixel/sounds/NT_S2.ogg
+    out=google_sounds/Notifications/Reality Bytes/Gibbon Call.ogg
+https://www.gstatic.com/pixel/sounds/NT_W_bellhop.ogg
+    out=google_sounds/Notifications/Reality Bytes/Bellhop.ogg
+https://www.gstatic.com/pixel/sounds/NT_S4.ogg
+    out=google_sounds/Notifications/Reality Bytes/Magic Trick.ogg
+https://www.gstatic.com/pixel/sounds/NT_S5.ogg
+    out=google_sounds/Notifications/Reality Bytes/Guardian Angel.ogg
+https://www.gstatic.com/pixel/sounds/NT_S6.ogg
+    out=google_sounds/Notifications/Reality Bytes/Coin Toss.ogg
+https://www.gstatic.com/pixel/sounds/NT_S7.ogg
+    out=google_sounds/Notifications/Reality Bytes/Cowbell.ogg
+https://www.gstatic.com/pixel/sounds/NT_S8.ogg
+    out=google_sounds/Notifications/Reality Bytes/Swan Song.ogg
+https://www.gstatic.com/pixel/sounds/NT_S9.ogg
+    out=google_sounds/Notifications/Reality Bytes/Ping-Pong.ogg
+https://www.gstatic.com/pixel/sounds/NT_S10.ogg
+    out=google_sounds/Notifications/Reality Bytes/Paper Clip.ogg
+https://www.gstatic.com/pixel/sounds/NT_S11.ogg
+    out=google_sounds/Notifications/Reality Bytes/Blacksmith.ogg
+https://www.gstatic.com/pixel/sounds/NT_S12.ogg
+    out=google_sounds/Notifications/Reality Bytes/Fraidy Cat.ogg
+https://www.gstatic.com/pixel/sounds/NT_S13.ogg
+    out=google_sounds/Notifications/Reality Bytes/Tropical Frog.ogg
+https://www.gstatic.com/pixel/sounds/NT_S14.ogg
+    out=google_sounds/Notifications/Reality Bytes/Sad Trombone.ogg
+https://www.gstatic.com/pixel/sounds/NT_R4.ogg
+    out=google_sounds/Notifications/Retro Riffs/Boomerang.ogg
+https://www.gstatic.com/pixel/sounds/NT_R6.ogg
+    out=google_sounds/Notifications/Retro Riffs/Jackpot.ogg
+https://www.gstatic.com/pixel/sounds/NT_R_bubble.ogg
+    out=google_sounds/Notifications/Retro Riffs/Bubble.ogg
+https://www.gstatic.com/pixel/sounds/NT_R9.ogg
+    out=google_sounds/Notifications/Retro Riffs/Gems.ogg
+https://www.gstatic.com/pixel/sounds/NT_R_portal.ogg
+    out=google_sounds/Notifications/Retro Riffs/Portal.ogg
+https://www.gstatic.com/pixel/sounds/NT_R11.ogg
+    out=google_sounds/Notifications/Retro Riffs/Bolt.ogg
+https://www.gstatic.com/pixel/sounds/NT_R14.ogg
+    out=google_sounds/Notifications/Retro Riffs/Spell.ogg
+https://www.gstatic.com/pixel/sounds/NT_R15.ogg
+    out=google_sounds/Notifications/Retro Riffs/Coins.ogg
+https://www.gstatic.com/pixel/sounds/NT_R16.ogg
+    out=google_sounds/Notifications/Retro Riffs/Reward.ogg
+https://www.gstatic.com/pixel/sounds/NT_R_unlock.ogg
+    out=google_sounds/Notifications/Retro Riffs/Unlock.ogg
+https://www.gstatic.com/pixel/sounds/NT_R22.ogg
+    out=google_sounds/Notifications/Retro Riffs/Magic.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_champagne_pop.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Champagne Pop.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_party_favor.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Party Favor.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_be_mine.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Be Mine.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_sweetheart.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Sweetheart.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_summer_surf.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Summer Surf.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_eerie.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Eerie.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_gobble_gobble.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Gobble Gobble.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_winter_wind.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Winter Wind.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_snowflake.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Snowflake.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_holiday_magic.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Holiday Magic.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_sleigh_bells.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Sleigh Bells.ogg
+https://www.gstatic.com/pixel/sounds/NT_S_cheers.ogg
+    out=google_sounds/Notifications/Seasonal Celebrations/Cheers.ogg
